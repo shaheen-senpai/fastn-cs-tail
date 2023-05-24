@@ -325,8 +325,8 @@ text: $warning-text-
 border: $warning-border-
 
 -- ftd.color custom-one-:
-light: #ed753a
-dark: #ed753a
+light: #800060
+dark: #800060
 
 -- ftd.color custom-two-:
 light: #f3db5f
