@@ -1,6 +1,6 @@
 -- ftd.color base-:
-light: #ffc7c7
-dark: #00adb5
+light: #FFC7C7
+dark: #00ADB5
 
 -- ftd.color step-1-:
 light: #e3bc81
@@ -50,7 +50,7 @@ light: #393939
 dark: #393939
 
 -- ftd.color cta-primary-base-:
-light: #f6f6f6
+light: #F6F6F6
 dark: #222831
 
 -- ftd.color cta-primary-hover-:
