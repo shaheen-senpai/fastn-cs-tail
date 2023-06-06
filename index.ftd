@@ -15,6 +15,7 @@ name: default-colors
 -- ftd.color-scheme colors-data: $main
 
 
+
 -- cd.package: THEME
 name: `fastn-cs-tail`
 logo: $assets.files.static.fastn-logo.svg
