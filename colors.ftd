@@ -144,7 +144,7 @@ text-disabled: $cta-secondary-text-disabled-
 border-disabled: $cta-secondary-border-disabled-
 
 -- ftd.color cta-tertiary-base-:
-light: #8785A2
+light: #a1ceff
 dark: #EEEEEE
 
 -- ftd.color cta-tertiary-hover-:
