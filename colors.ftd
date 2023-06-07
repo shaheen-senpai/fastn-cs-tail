@@ -50,7 +50,7 @@ light: #393939
 dark: #393939
 
 -- ftd.color cta-primary-base-:
-light: #F6F6F6
+light: #7AB9FD
 dark: #222831
 
 -- ftd.color cta-primary-hover-:
@@ -97,7 +97,7 @@ text-disabled: $cta-primary-text-disabled-
 border-disabled: $cta-primary-border-disabled-
 
 -- ftd.color cta-secondary-base-:
-light: #7AB9FD
+light: #F6F6F6
 dark: #393E46
 
 -- ftd.color cta-secondary-hover-:
